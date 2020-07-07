@@ -1,1 +1,3 @@
-# Daily-calender
+For this project we were to build a working daily event planner.
+We used css to style the calender and javascript to run the functions. 
+The main functions are to be able to select a time slot and store an event to local storage so that you are able to refresh the page and see the event stored. The time slots on the calender will also change colors in relation to the current time of day. The past should change to grey, the present should be red and the future should be green. Overall this project was a bit easier but still quite tough. My skills are getting better but it is still nice to have tutors, instructors, learning assistants and fellow class mates to help along the way!
